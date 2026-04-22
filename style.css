@@ -30,3 +30,23 @@ font-size:18px;
   justify-content: center;
   margin: 30px 0;
 }
+
+.images-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.images-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.images-container img {
+  width: 180px;
+}
+
+
